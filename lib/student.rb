@@ -2,7 +2,7 @@
 class Student
 
   def hello
-    @hello = print "Hey there! I'm so excited to learn stuff."
+    @hello = returns "Hey there! I'm so excited to learn stuff."
 end
 
 def raise_hand
